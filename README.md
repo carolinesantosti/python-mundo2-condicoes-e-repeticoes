@@ -1,1 +1,0 @@
-# python-mundo2-condicoes-e-repeticoes
