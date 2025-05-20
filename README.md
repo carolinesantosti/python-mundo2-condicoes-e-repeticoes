@@ -10,7 +10,7 @@ Aqui pratico conceitos como estruturas condicionais, laços de repetição, dica
 Os exercícios estão organizados por aula, com foco na prática dos conteúdos abordados.  
 Cada arquivo `.py` representa um desafio resolvido com base nas explicações do curso.
 
-### Aula 12 - Condições Aninhadas
+### Aula 12 - Condições Encadeadas (if/elif/else)
 - `ex036.py`: Calcula valor da prestação de um imóvel e aprova ou nega o empréstimo.
 - `ex037.py`: Converte um número inteiro para binário, octal ou hexadecimal.
 - `ex038.py`: Compara dois números inteiros e mostra qual é maior ou se são iguais.
