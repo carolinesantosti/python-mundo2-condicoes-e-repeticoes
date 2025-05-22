@@ -40,11 +40,11 @@ Cada arquivo `.py` representa um desafio resolvido com base nas explicações do
 
 ## ✨ Progresso
 
-✔️ Início do Mundo 2 concluído até o Exercício 056
-✔️ Estruturas condicionais simples e compostas aplicadas com sucesso
-✔️ Início dos laços de repetição com for finalizado
-✔️ Desafios com lógica de repetição, somas, filtros, contagem e análise de dados realizados com sucesso
-✔️ Simulações e automações básicas em andamento
+- ✔️ Início do Mundo 2 concluído até o Exercício 056
+- ✔️ Estruturas condicionais simples e compostas aplicadas com sucesso
+- ✔️ Início dos laços de repetição com for finalizado
+- ✔️ Desafios com lógica de repetição, somas, filtros, contagem e análise de dados realizados com sucesso
+- ✔️ Simulações e automações básicas em andamento
 
 Mais desafios serão adicionados conforme avanço no curso.
 
