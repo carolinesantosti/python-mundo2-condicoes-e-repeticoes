@@ -23,12 +23,28 @@ Cada arquivo `.py` representa um desafio resolvido com base nas explicações do
 - `ex045.py`: 	Simula o clássico jogo com interação entre usuário e computador.
 
 ---
+### Aula 13 - Estrutura de repetição for
+- `ex046.py`: Faz uma contagem de 10 até 0 com pausa entre os números.
+- `ex047.py`: Mostra todos os números pares de 1 a 50.
+- `ex048.py`: Soma todos os números ímpares múltiplos de 3 entre 1 e 500.
+- `ex049.py`: Mostra a tabuada de um número usando laço for.
+- `ex050.py`: Lê 6 números e soma apenas os pares.
+- `ex051.py`: Mostra os 10 primeiros termos de uma PA.
+- `ex052.py`: Diz se o número é primo ou não.
+- `ex053.py`: Verifica se uma frase é um palíndromo.
+- `ex054.py`: Lê o ano de nascimento de 7 pessoas e mostra quantas são maiores de idade.
+- `ex055.py`: Lê o peso de 5 pessoas e mostra o maior e o menor.
+- `ex056.py`: Lê nome, idade e sexo de 4 pessoas e mostra média de idade, homem mais velho e quantas mulheres têm menos de 20 anos.
+
+---
 
 ## ✨ Progresso
 
-✔️ Início do Mundo 2 concluído até o **Exercício 045**  
-✔️ Estruturas condicionais simples e compostas aplicadas com sucesso.  
-✔️ Simulações e automações básicas finalizadas.
+✔️ Início do Mundo 2 concluído até o Exercício 056
+✔️ Estruturas condicionais simples e compostas aplicadas com sucesso
+✔️ Início dos laços de repetição com for finalizado
+✔️ Desafios com lógica de repetição, somas, filtros, contagem e análise de dados realizados com sucesso
+✔️ Simulações e automações básicas em andamento
 
 Mais desafios serão adicionados conforme avanço no curso.
 
