@@ -3,7 +3,6 @@
 Este repositório contém os exercícios do **Mundo 2** do Curso de Python do Professor Guanabara (Curso em Vídeo).  
 Aqui pratico conceitos como estruturas condicionais, laços de repetição, dicas de melhoria de código e aplicações práticas com Python.
 
----
 
 ## 📚 Organização
 
@@ -20,7 +19,7 @@ Cada arquivo `.py` representa um desafio resolvido com base nas explicações do
 - `ex042.py`: Verifica se 3 retas formam um triângulo e qual o tipo.
 - `ex043.py`: Calcula o IMC e exibe a classificação (abaixo do peso, normal, sobrepeso...).
 - `ex044.py`: Aplica descontos ou juros dependendo da forma de pagamento.
-- `ex045.py`: 	Simula o clássico jogo com interação entre usuário e computador.
+- `ex045.py`: Simula o clássico jogo com interação entre usuário e computador.
 
 ---
 ### Aula 13 - Estrutura de repetição for
@@ -37,14 +36,24 @@ Cada arquivo `.py` representa um desafio resolvido com base nas explicações do
 - `ex056.py`: Lê nome, idade e sexo de 4 pessoas e mostra média de idade, homem mais velho e quantas mulheres têm menos de 20 anos.
 
 ---
+### Aula 14 - Estrutura de repetição while
+- `ex057.py`: Validação de entrada de dados para aceitar apenas "M" ou "F".
+- `ex058.py`: Jogo da adivinhação com laço while, onde o jogador tenta até acertar.
+- `ex059.py`: Menu interativo com opções de soma, multiplicação, maior número, novos valores ou sair.
+- `ex060.py`: Cálculo do fatorial de um número usando while.
+- `ex061.py`: Mostra os 10 primeiros termos de uma PA com laço while.
+- `ex062.py`: Versão avançada da PA que permite mostrar termos adicionais.
+- `ex063.py`: Gera a sequência de Fibonacci até o número de termos desejado.
+- `ex064.py`: Lê vários números até digitar 999 e soma todos, desconsiderando o 999.
+- `ex065.py`: Lê vários números e mostra média, maior e menor valor digitado.
 
 ## ✨ Progresso
 
-- ✔️ Início do Mundo 2 concluído até o Exercício 056
-- ✔️ Estruturas condicionais simples e compostas aplicadas com sucesso
-- ✔️ Início dos laços de repetição com for finalizado
-- ✔️ Desafios com lógica de repetição, somas, filtros, contagem e análise de dados realizados com sucesso
-- ✔️ Simulações e automações básicas em andamento
+- ✔️ Mundo 2 em andamento até o Exercício 065
+- ✔️ Estruturas condicionais simples e compostas dominadas
+- ✔️ Laços de repetição com for aplicados com sucesso
+- ✔️ Finalizada a Aula 14 – Estrutura de repetição while
+- ✔️ Desafios práticos com lógica de repetição, validações, menus e séries numéricas resolvidos
 
 Mais desafios serão adicionados conforme avanço no curso.
 
