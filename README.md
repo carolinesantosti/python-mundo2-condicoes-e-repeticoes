@@ -46,10 +46,15 @@ Cada arquivo `.py` representa um desafio resolvido com base nas explicações do
 - `ex063.py`: Gera a sequência de Fibonacci até o número de termos desejado.
 - `ex064.py`: Lê vários números até digitar 999 e soma todos, desconsiderando o 999.
 - `ex065.py`: Lê vários números e mostra média, maior e menor valor digitado.
+- `ex066.py`: Permite ao usuário inserir vários números até decidir parar, utilizando uma flag para controlar o término, e realiza análises como soma, média e contagem.
+- `ex067.py`: Criação de uma tabuada interativa, permitindo ao usuário escolher o número e o limite de repetição.
+- `ex068.py`: Jogo interativo onde o usuário compete contra o computador, com contagem de vitórias consecutivas.
+- `ex069.py`: Coleta e análise de informações de várias pessoas, como idade, sexo e estatísticas relacionadas.
+- `ex070.py`: Registro de produtos, preços e análise de valores como total gasto, produtos acima de determinado preço e produto mais barato.
+- `ex071.py`: Simulação de saques em um caixa eletrônico, detalhando a quantidade de notas necessárias para cada valor solicitado.
 
 ## ✨ Progresso
 
-- ✔️ Mundo 2 em andamento até o Exercício 065
 - ✔️ Estruturas condicionais simples e compostas dominadas
 - ✔️ Laços de repetição com for aplicados com sucesso
 - ✔️ Finalizada a Aula 14 – Estrutura de repetição while
